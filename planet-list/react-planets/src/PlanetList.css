@@ -1,0 +1,12 @@
+.container{
+    margin-top: 200px;
+    padding: 10px;
+}
+
+.planetSizing{
+    max-width: 150px;
+}
+
+.saturn{
+    max-width: 240px;
+}
